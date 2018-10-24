@@ -1,0 +1,16 @@
+.wrapper{
+	position: absolute;
+	top: 10%;
+	left:25%;
+	height: 50%;
+	width: 50%;
+	border-radius: 25px;
+	box-shadow: 10px 10px 5px #888888;
+}
+.container{
+	position: relative;
+	top: 0%;
+	left: 0%;
+	width: auto;
+	height:auto;
+}
